@@ -1,5 +1,5 @@
 Before running: 
-npm install
+npm install @truffle/hdwallet-provider
 
 To compile and deploy: 
 truffle migrate --reset --network network-name
